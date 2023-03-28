@@ -36,24 +36,24 @@ Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamen
 <!-- ALGUM BANNER ANIMADO -->
 
 ### João 
-<!-- foto do joão -->
+<!-- foto do João -->
 
 ### Murilo
-<!-- foto do joão -->
+<!-- foto do Murilo -->
 
 ### Natanael
-<!-- foto do joão -->
+<!-- foto do Natanael -->
 
 ### Rafael 
-<!-- foto do joão -->
+<!-- foto do Rafael -->
 
 ### Rebeca
-<!-- foto do joão -->
+<!-- foto do Rebeca -->
 
 ### Rony
-<!-- foto do joão -->
+<!-- foto do Rony -->
 
 ### Vitória
-<!-- foto do joão -->
+<!-- foto do Vitória -->
 
 # Agradecimentos 
