@@ -35,25 +35,30 @@ Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamen
 
 <!-- ALGUM BANNER ANIMADO -->
 
-### João 
+### <a href="https://www.linkedin.com/in/jo%C3%A3o-kiala-vioka-panzo/">João Kiala</a>
 <!-- foto do João -->
 
-### Murilo
+### <a href="https://www.linkedin.com/in/muriloc-ribeiro/">Murilo Ribeiro</a>
 <!-- foto do Murilo -->
 
-### Natanael
+### <a href="https://www.linkedin.com/in/natanael-da-silva-bento-dev/">Natanael Bento</a>
+
 <!-- foto do Natanael -->
 
-### Rafael 
+###  <a href="https://www.linkedin.com/in/rafael-almeida-duarte/">Rafael Duarte</a>
+
 <!-- foto do Rafael -->
 
-### Rebeca
+###  <a href="https://www.linkedin.com/in/rebecasantana/">Rebeca Santana</a>
+
 <!-- foto do Rebeca -->
 
-### Rony
+###  <a href="https://www.linkedin.com/in/rony-dos-santos-teles-29649a172/">Rony dos Santos</a>
+
 <!-- foto do Rony -->
 
-### Vitória
+###  <a href="https://www.linkedin.com/in/vitoria-busch/">Vitória Busch</a>
+
 <!-- foto do Vitória -->
 
 # Agradecimentos 
