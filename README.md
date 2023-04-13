@@ -31,34 +31,7 @@ Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamen
 
 <!-- ICONES DAS TECNOLOGIAS -->
 
-# Desenvolvedores
+# Desenvolvedores 
 
-<!-- ALGUM BANNER ANIMADO -->
-
-### <a href="https://www.linkedin.com/in/jo%C3%A3o-kiala-vioka-panzo/">João Kiala</a>
-<!-- foto do João -->
-
-### <a href="https://www.linkedin.com/in/muriloc-ribeiro/">Murilo Ribeiro</a>
-<!-- foto do Murilo -->
-
-### <a href="https://www.linkedin.com/in/natanael-da-silva-bento-dev/">Natanael Bento</a>
-
-<!-- foto do Natanael -->
-
-###  <a href="https://www.linkedin.com/in/rafael-almeida-duarte/">Rafael Duarte</a>
-
-<!-- foto do Rafael -->
-
-###  <a href="https://www.linkedin.com/in/rebecasantana/">Rebeca Santana</a>
-
-<!-- foto do Rebeca -->
-
-###  <a href="https://www.linkedin.com/in/rony-dos-santos-teles-29649a172/">Rony dos Santos</a>
-
-<!-- foto do Rony -->
-
-###  <a href="https://www.linkedin.com/in/vitoria-busch/">Vitória Busch</a>
-
-<!-- foto do Vitória -->
-
-# Agradecimentos 
+[<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 > <br> <sub> João Kiala </sub>](https://github.com/Joaopanzo261) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Murilo Ribeiro </sub>](https://github.com/MuRibeiro) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Natanael Bento </sub>](https://github.com/natanael-bento) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rafale Duarte </sub>](https://github.com/RafaelAstora) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rebeca Sanatana </sub>]() | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rony dos Santos </sub>](https://github.com/ronyrst) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Vitoria Busch </sub>](https://github.com/vfpark)
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
