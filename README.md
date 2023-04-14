@@ -2,6 +2,8 @@
 
 # Conecta-Vaga
 
+<!-- LOGO -->
+
 # Sobre o Projeto
 
 <p>O projeto da ONG ConectaVaga tem como objetivo promover o trabalho decente e a inclusão social de grupos minoritários e em situação de vulnerabilidade, por meio da intermediação de empregadores com profissionais. 
